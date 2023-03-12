@@ -1,0 +1,393 @@
+Bezirk,Jahr,Orte,Geburtsort,Latitude1,Longitude1,Medaille,Sportart,Disziplin
+MFR,1912.0,Stockholm (SWE),Nürnberg,49460.0,11061.0,Silber,Ringen,Federgewicht
+MFR,1928.0,Amsterdam (NL),Nürnberg,49460.0,11061.0,Gold,Ringen,Bantamgewicht
+MFR,1928.0,Amsterdam (NL),Nürnberg,49460.0,11061.0,Gold,Wasserball,
+MFR,1936.0,Berlin (D),Fürth,49452.0,10974.0,Silber,Ringen,Mittelgewicht
+MFR,1936.0,Berlin (D),Nürnberg,49460.0,11061.0,Gold,Turnen,Mannschaft
+MFR,1936.0,Berlin (D),Fürth,49452.0,10974.0,Gold,Turnen,"Pferdsprung, Mehrkampf, Mannschaft, Reck, Barren"
+MFR,1936.0,Berlin (D),Schwabach,49328.0,11035.0,Gold,Turnen,"Mannschaft, Pferdesprung, Ringeturnen"
+MFR,1936.0,Berlin (D),Schwabach,49328.0,11035.0,Silber,Wasserball,
+MFR,1952.0,Helsinki (FIN),Fürth,49452.0,10974.0,Silber,Turnen,Reck
+MFR,1952.0,Helsinki (FIN),"Berlin, in Nürnberg aufgewachsen",49460.0,11061.0,Bronze,Leichtathletik,4x400m Staffel (Schlussläufer)
+MFR,1956.0,Melbourne (AUS),"Berlin, in Nürnberg aufgewachsen",49460.0,11061.0,Silber,Leichtathletik,400m
+MFR,1960.0,Rom (IT),Langenzenn,49493.0,10794.0,Silber,Leichtathletik,4x100m Staffel
+MFR,1964.0,Tokio (JP),Nürnberg,49460.0,11061.0,Bronze,Rad (Bahn),Tandem
+MFR,1968.0,Mexiko City (MEX),Nürnberg,49460.0,11061.0,Bronze,Boxen,Halbmittelgewicht
+MFR,1968.0,Mexiko City (MEX),Lauf a. d Pegnitz,49511.0,11278.0,Bronze,Leichtathletik,4x400m Staffel
+MFR,1968.0,Mexiko City (MEX),Nürnberg,49460.0,11061.0,Silber,Sportschießen,Freie Pistole
+MFR,1972.0,München (BRD),Altdorf,49385.0,11356.0,Gold,Leichtathletik,Speerwurf
+MFR,1984,"Stoke Mandeville (GB), Hempstead/New York (USA)",Nürnberg,49460.0,11061.0,Gold,Tischtennis,"Klasse 3, Singles 2-4"
+MFR,1984.0,Los Angeles (USA),Röthenbach bei Sankt Wolfgang,49360.0,11159.0,Bronze,Leichtathletik,Zehnkampf
+MFR,1988,Seoul (SKO),Nürnberg,49460.0,11061.0,Gold,Tischtennis,"Klasse 3, Offene Klasse 2-4"
+MFR,1992,Barcelona (E) ,Nürnberg,49460.0,11061.0,Gold,Tischtennis,"Offene Klasse 1-5, Klasse 4, Team 5"
+MFR,1996.0,Atlanta (USA),Erlangen,49583.0,11016.0,Bronze,Schwimmen,4x100m Freistil Staffel
+MFR,1996,Atlanta (USA),Nürnberg,49460.0,11061.0,Silber,Tischtennis,"Klasse 4, Offene Klasse 1-5, Team 3-5"
+MFR,1996.0,Atlanta (USA),Erlangen,49583.0,11016.0,Bronze,Schwimmen,4x100m Freistil Staffel
+MFR,2000,Sydney (AUS),Nürnberg,49460.0,11061.0,Gold,Tischtennis,"Klasse 4, Team"
+MFR,2004.0,Athen (GR),Nürnberg,49460.0,11061.0,Bronze,Schwimmen,4x200m Freistil
+MFR,2004.0,Athen (GR),Nürnberg,49460.0,11061.0,Bronze,Schwimmen,4x100m Lagen
+MFR,2004,Athen (GR),Nürnberg,49460.0,11061.0,Bronze,Tischtennis,Klasse 4
+MFR,2008.0,Peking (CHN),Nürnberg,49460.0,11061.0,Gold,Hockey,
+MFR,2012.0,London (GB),Nürnberg,49460.0,11061.0,Gold,Hockey,
+MFR,2012.0,London (GB),Nürnberg,49460.0,11061.0,Gold,Hockey,
+MFR,2016.0,Rio de Janeiro (BRA),Nürnberg,49460.0,11061.0,Bronze,Hockey,
+MFR,2016.0,Rio de Janeiro (BRA),Nürnberg,49460.0,11061.0,Bronze,Hockey,
+MFR,2016.0,Rio de Janeiro (BRA),Fürth,49452.0,10974.0,Bronze,Handball,
+MFR,2016,Rio de Janeiro (BRA),Treuchtlingen,48959.0,10909.0,Silber,Reitsport,Team
+MFR,2018.0,Pyeongchang (Südkorea),Nürnberg,49460.0,11061.0,Silber,Eishockey,
+MFR,2021.0,Tokio (JP),Nürnberg,49460.0,11061.0,Bronze,Bogenschießen,Team
+NDB,1932.0,Los Angeles (USA),Landshut,48544.0,12146.0,Gold,Gewichtheben,Mittelgewicht
+NDB,1936.0,Berlin (D),Landshut,48544.0,12146.0,Silber,Gewichtheben,Mittelgewicht
+NDB,1968.0,Mexiko City (MEX),Pfarrkirchen,48419.0,12939.0,Bronze,Sportschießen,Skeet Schießen
+NDB,1972.0,München (BRD),Passau,48567.0,13452.0,Bronze,Rudern,4er ohne Steuermann
+NDB,1972.0,München (BRD),Pfarrkirchen,48419.0,12939.0,Gold,Sportschießen,Skeet Schießen
+NDB,1976.0,Innsbruck (AT),Landshut,48544.0,12146.0,Bronze,Eishockey,
+NDB,1976.0,Innsbruck (AT),Landshut,48544.0,12146.0,Bronze,Eishockey,
+NDB,1980.0,Lake Placid (USA),Zwiesel,49017.0,13237.0,Bronze,Biathlon,Staffel
+NDB,1984.0,Los Angeles (USA),Mallersdorf,48769.0,12227.0,Silber,Sportschießen,KK Dreistellungskampf
+NDB,1984.0,Sarajewo (JUG),Kelheim,48918.0,11886.0,Bronze,Biathlon,Staffel
+NDB,1988.0,Calgary (CAN),Kelheim,48918.0,11886.0,Silber,Biathlon,Staffel
+NDB,1992.0,Albertville (F),Kelheim,48918.0,11886.0,Gold,Biathlon,Staffel
+NDB,1996,Atlanta (USA),Plattling,48780.0,12869.0,Bronze,Tischtennis,Team
+NDB,1996.0,Atlanta (USA),Zwiesel,49017.0,13237.0,Silber,Sportschießen,Doppeltrap
+NDB,2002.0,Salt Lake City (USA),Wegscheid,48595.0,13783.0,Gold,Skispringen,Team
+NDB,2004.0,Athen (GR),Straubing,48877.0,12580.0,Bronze,Judo,
+NDB,2004,Athen (GR),Plattling,48780.0,12869.0,Bronze,Tischtennis,Team
+NDB,2010.0,Vancouver (CAN),Wegscheid,48595.0,13783.0,Silber,Skispringen,Team
+NDB,2012.0,London (GB),Vilshofen,48627.0,13182.0,Gold,Rudern,Deutschland 8er
+NDB,2012,London (GB),Zwiesel,49017.0,13237.0,Silber,Tischtennis,"Team, Einzel"
+NDB,2014.0,Sotschi (RUS),Freyung,48808.0,13548.0,Gold,Skispringen,Team
+NDB,2016.0,Rio de Janeiro (BRA),Vilshofen,48627.0,13182.0,Silber,Rudern,Deutschland 8er
+NDB,2016.0,Rio de Janeiro (BRA),Eggenfelden,48405.0,12757.0,Gold,Sportschießen,KK-Gewehr 50m Dreistellungskampf
+NDB,2016,Rio de Janeiro (BRA),Zwiesel,49017.0,13237.0,Silber,Tischtennis,"Einzel, Team"
+NDB,2018.0,Pyeongchang (Südkorea),Deggendorf,48840.0,12957.0,Silber,Eishockey,
+NDB,2021,Tokio (JAP),Zwiesel,49017.0,13237.0,Silber,Tischtennis,"Einzel, Team"
+OBB,1908.0,London (GB),München,48135.0,11581.0,Gold,Eiskunstlauf,Paarlauf
+OBB,1908.0,London (GB),München,48135.0,11581.0,Gold,Eiskunstlauf,Paarlauf
+OBB,1908.0,London (GB),München o. Wernfels,48135.0,11581.0,Silber,Leichtathletik,"Staffel, 800m"
+OBB,1912.0,Stockholm (SWE),München,48135.0,11581.0,Silber,Kunstspringen,
+OBB,1912.0,Stockholm (SWE),München o. Wernfels,48135.0,11581.0,Silber,Leichtathletik,400m
+OBB,1928.0,Amsterdam (NL),München,48135.0,11581.0,Gold,Reiten,Mannschaft Dressur
+OBB,1928.0,Amsterdam (NL),München,48135.0,11581.0,Bronze,Leichtathletik,4x100m Staffel
+OBB,1928.0,Amsterdam (NL),München,48135.0,11581.0,Bronze,Gewichtheben,Federgewicht
+OBB,1928.0,Amsterdam (NL),Kolbermoor,47848.0,12061.0,Gold,Gewichtheben,Schwergewicht
+OBB,1928.0,St. Moritz (CH),Garmisch,47491.0,11095.0,Bronze,Bob,5er-Bob (Steuermann)
+OBB,1932.0,Los Angeles (USA),München,48135.0,11581.0,Silber,Ringen,Federgewicht/Griechisch-Römisch
+OBB,1932.0,Los Angeles (USA),Kolbermoor,47848.0,12061.0,Bronze,Gewichtheben,Schwergewicht
+OBB,1932.0,Los Angeles (USA),München,48135.0,11581.0,Silber,Gewichtheben,Federgewicht
+OBB,1932.0,Los Angeles (USA),München,48135.0,11581.0,Silber,Boxen,Federgewicht
+OBB,1932.0,Lake Placid (USA),München,48135.0,11581.0,Bronze,Eishockey,
+OBB,1932.0,Lake Placid (USA),Garmisch,47491.0,11095.0,Bronze,Bob,4er-Bob (Steuermann)
+OBB,1932.0,Lake Placid (USA),München,48135.0,11581.0,Bronze,Eishockey,
+OBB,1936.0,Berlin (D),München,48135.0,11581.0,Gold,Kanu,1er Kajak 10000m
+OBB,1936.0,Berlin (D),München,48135.0,11581.0,Gold,Leichtathletik,Diskus
+OBB,1936.0,Berlin (D),München,48135.0,11581.0,Silber,Ringen,Leichtgewicht/Freistil
+OBB,1936.0,Berlin (D),Jesenwang,48166.0,11131.0,Gold,Turnen,Mannschaft
+OBB,1936.0,Garmisch-Patenkirchen (D),München,48135.0,11581.0,Gold,Eiskunstlauf,Paarlauf
+OBB,1936.0,Garmisch-Patenkirchen (D),Partenkirchen,47491.0,11095.0,Silber,Ski Alpin,Alpine Kombination
+OBB,1936.0,Garmisch-Patenkirchen (D),Au/Berchtesgarden,47630.0,13000.0,Gold,Ski Alpin,Alpine Kombination
+OBB,1952.0,Oslo (NOR),Ettal,47569.0,11093.0,Silber,Ski Alpin,"Abfahrt, Riesenslalom, Slalom"
+OBB,1952.0,Oslo (NOR),Grainau,47476.0,11024.0,Gold,Bob,"2er, 4er"
+OBB,1952.0,Oslo (NOR),Partenkirchen,47491.0,11095.0,Gold,Bob,4er
+OBB,1952.0,Oslo (NOR),München,48135.0,11581.0,Gold,Bob,"2er, 4er"
+OBB,1956.0,Melbourne (AUS),München,48135.0,11581.0,Bronze,Hockey,
+OBB,1960.0,Rom (IT),Großinzemoos,48337.0,11427.0,Silber,Leichtathletik,4x100m Staffel
+OBB,1964.0,Innsbruck (AT),Berchtesgarden,47630.0,13000.0,Bronze,Rodel,Einzel
+OBB,1964.0,Tokio (JP),Rosenheim,47857.0,12118.0,Bronze,Turnen,Mannschaftsmehrkampf
+OBB,1964.0,Innsbruck (AT),München,48135.0,11581.0,Gold,Eiskunstlauf,
+OBB,1964.0,Innsbruck (AT),Dachau,48262.0,11433.0,Silber,Eiskunstlauf,Paarlauf
+OBB,1964.0,Innsbruck (AT),Bischofswiesen,47650.0,12964.0,Bronze,Ski Alpin,Abfahrt
+OBB,1968.0,Grenoble (F),Kreuth,47644.0,11743.0,Bronze,Rodel,Doppelsitzer
+OBB,1968.0,Grenoble (F),Tegernsee,47713.0,11758.0,Bronze,Rodel,Doppelsitzer
+OBB,1968.0,Grenoble (F),Grainau,47476.0,11024.0,Silber,Bob,2er-Bob
+OBB,1972.0,Sapporo (JAP),München,48135.0,11581.0,Gold,Eisschnelllauf,1000m
+OBB,1972.0,Sapporo (JAP),Murnau am Staffelsee,47677.0,11204.0,Bronze,Bob,4er-Bob
+OBB,1972.0,Sapporo (JAP),Ohlstadt,47634.0,11233.0,Gold,Bob,"2er-Bob, 4er-Bob"
+OBB,1972.0,Sapporo (JAP),Dießen am Ammersee,47947.0,11103.0,Bronze,Bob,4er-Bob
+OBB,1972.0,Sapporo (JAP),Murnau am Staffelsee,47677.0,11204.0,Gold,Bob,"2er-Bob, 4er-Bob"
+OBB,1972.0,München (BRD),Großhesselohe,48056.0,11523.0,Bronze,Kanu,1er-Kajak Slalom
+OBB,1972.0,Sapporo (JAP),Grainau,47476.0,11024.0,Silber,Bob,2er-Bob
+OBB,1972.0,München (BRD),München,48135.0,11581.0,Bronze,Schwimmen,4x100m Lagen
+OBB,1972.0,München (BRD),München,48135.0,11581.0,Bronze,Judo,Halb-Schwergewicht
+OBB,1976.0,Innsbruck (AT),Berchtesgarden,47630.0,13000.0,Silber,Rodeln,Doppelsitzer
+OBB,1976.0,Innsbruck (AT),Garmisch-Partenkirchen,47491.0,11095.0,Bronze,Eishockey,
+OBB,1976.0,Innsbruck (AT),Berchtesgarden,47630.0,13000.0,Silber,Rodeln,
+OBB,1976.0,Innsbruck (AT),Bruckmühl,47876.0,11909.0,Bronze,Rodeln,Doppelsitzer
+OBB,1976.0,Innsbruck (AT),Reit im Winkl,47676.0,12469.0,Gold,Ski Alpin,"Abfahrt, Slalom, Riesenslalom "
+OBB,1976.0,Innsbruck (AT),Kochel am See,47659.0,11368.0,Bronze,Rodeln,
+OBB,1976.0,Innsbruck (AT),Holzkirchen,47881.0,11699.0,Bronze,Eishockey,
+OBB,1976.0,Innsbruck (AT),Bad Tölz,47761.0,11565.0,Bronze,Eishockey,
+OBB,1976.0,Innsbruck (AT),Garmisch-Partenkirchen,47491.0,11095.0,Bronze,Eishockey,
+OBB,1976.0,Innsbruck (AT),Ohlstadt,47634.0,11233.0,Silber,Bob,"2er-Bob, 4er-Bob"
+OBB,1976.0,Innsbruck (AT),Murnau am Staffelsee,47677.0,11204.0,Bronze,Bob,4er-Bob
+OBB,1976.0,Montreal (CAN),Tegernsee,47713.0,11758.0,Bronze,Sportschießen,KK-Gewehr Dreistellungskampf
+OBB,1976.0,Montreal (CAN),München,48135.0,11581.0,Bronze,Rudern,
+OBB,1976.0,Montreal (CAN),Steingaden,47702.0,10861.0,Silber,Judo,
+OBB,1980.0,Lake Placid (USA),Siegsdorf,47823.0,12640.0,Bronze,Biathlon,Staffel
+OBB,1980.0,Lake Placid (USA),Tegernsee,47713.0,11758.0,Bronze,Biathlon,Staffel
+OBB,1980.0,Lake Placid (USA),Bischofswiesen,47650.0,12964.0,Bronze,Rodel,Einsitzer
+OBB,1980.0,Lake Placid (USA),München,48135.0,11581.0,Silber,Ski Alpin,Slalom
+OBB,1984.0,Sarajewo (JUG),Bischofswiesen,47650.0,12964.0,Gold,Rodel,Doppelsitzer
+OBB,1984.0,Sarajewo (JUG),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Doppelsitzer
+OBB,1984.0,Sarajewo (JUG),Ruhpolding,47762.0,12645.0,Bronze,Biathlon,Staffel
+OBB,1984.0,Sarajewo (JUG),Bad Reichenhall,47730.0,12881.0,Bronze,Biathlon,Staffel
+OBB,1984.0,Los Angeles (USA),Steingaden,47702.0,10861.0,Silber,Judo,
+OBB,1984.0,Los Angeles (USA),Herrsching am Ammersee,47996.0,11174.0,Gold,Rudern,Doppelvierer
+OBB,1984.0,Los Angeles (USA),München,48135.0,11581.0,Bronze,Gewichtheben,Super-Schwergewicht
+OBB,1984.0,Sarajewo (JUG),Siegsdorf,47823.0,12640.0,Gold,Biathlon,"Einzel 20km, 10km Sprint, Staffel"
+OBB,1988.0,Calgary (CAN),Ruhpolding,47762.0,12645.0,Silber,Biathlon,Staffel
+OBB,1988.0,Calgary (CAN),München,48135.0,11581.0,Gold,Ski Alpin,Abfahrt
+OBB,1988.0,Calgary (CAN),München,48135.0,11581.0,Silber,Ski Alpin,"Riesenslalom, Slalom"
+OBB,1988.0,Calgary (CAN),Berchtesgarden,47630.0,13000.0,Bronze,Rodel,Doppelsitzer
+OBB,1988.0,Calgary (CAN),Berchtesgarden,47630.0,13000.0,Silber,Rodel,Einzel
+OBB,1988.0,Calgary (CAN),Oberaudorf,47651.0,12169.0,Gold,Nordische Kombination,Team
+OBB,1988.0,Calgary (CAN),Benediktbeuern,47705.0,11409.0,Silber,Biathlon,Staffel
+OBB,1988.0,Calgary (CAN),Berchtesgarden,47630.0,13000.0,Bronze,Rodel,Doppelsitzer
+OBB,1988.0,Seoul (Südkorea),Erpfting,48033.0,10833.0,Gold,Sportschießen,"KK-Gewehr Dreistellungskampf, Luftgewehr"
+OBB,1988.0,Seoul (Südkorea),Unterföhring,48191.0,11646.0,Bronze,Sportschießen,Luftgewehr
+OBB,1988.0,Seoul (Südkorea),München,48135.0,11581.0,Gold,Reiten,Vielseitigkeitsreiten Mannschaft
+OBB,1988.0,Seoul (Südkorea),Bruckmühl,47876.0,11909.0,Bronze,Rad,Zeitfahren Bahn
+OBB,1988.0,Seoul (Südkorea),München,48135.0,11581.0,Silber,Gewichtheben,Super-Schwergewicht
+OBB,1988.0,Calgary (CAN),Siegsdorf,47823.0,12640.0,Silber,Biathlon,Staffel
+OBB,1992,Barcelona (E) ,München,48135.0,11581.0,Bronze,Tennis,Doppel
+OBB,1992.0,Albertville (F),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Einzel
+OBB,1992.0,Albertville (F),Berchtesgarden,47630.0,13000.0,Silber,Bob,2er-Bob
+OBB,1992.0,Albertville (F),Tegernsee,47713.0,11758.0,Bronze,Bob,2er-Bob
+OBB,1992.0,Albertville (F),Bad Tölz,47761.0,11565.0,Silber,Biathlon,Staffel
+OBB,1992.0,Albertville (F),Berchtesgarden,47630.0,13000.0,Silber,Bob,2er-Bob
+OBB,1992.0,Barcelona ( E),München,48135.0,11581.0,Bronze,Schwimmen,4x100m Freistil Staffel
+OBB,1992.0,Barcelona ( E),München,48135.0,11581.0,Bronze,Reiten,Team
+OBB,1992.0,Barcelona ( E),München,48135.0,11581.0,Bronze,Judo,Superleichtgewicht
+OBB,1992.0,Barcelona ( E),München,48135.0,11581.0,Silber,Hockey,
+OBB,1992.0,Barcelona ( E),München,48135.0,11581.0,Bronze,Gewichtheben,Super-Schwergewicht
+OBB,1992.0,Barcelona ( E),Unterföhring,48191.0,11646.0,Bronze,Sportschießen,Luftgewehr
+OBB,1994.0,Lillehammer (NOR),Schliersee,47734.0,11862.0,Gold,Ski Alpin,"Super-G, Riesenslalom"
+OBB,1994.0,Lillehammer (NOR),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Einzel
+OBB,1994.0,Lillehammer (NOR),Bad Tölz,47761.0,11565.0,Silber,Ski Alpin,Riesenslalom
+OBB,1994.0,Lillehammer (NOR),Bad Tölz,47761.0,11565.0,Bronze,Biathlon,"15km, Staffel"
+OBB,1996.0,Atlanta (USA),Wolfratshausen,47910.0,11427.0,Bronze,Judo,Schwergewicht
+OBB,1996.0,Atlanta (USA),München,48135.0,11581.0,Bronze,Judo,Superleichtgewicht
+OBB ,1996.0,Atlanta (USA),München,48135.0,11581.0,Bronze,Schwimmen,"4x100m Freistil Staffel, 4x200m Freistil Staffel"
+OBB,1998,Nagano (JAP),Traunstein,47867.0,12638.0,Bronze,Ski Alpin Sitzend,Super-G
+OBB,1998.0,Nagano (JAP),Berchtesgarden,47630.0,13000.0,Silber,Rodel,Einzel
+OBB,1998.0,Nagano (JAP),Berchtesgarden,47630.0,13000.0,Silber,Snowboard,Riesenslalom
+OBB,1998.0,Nagano (JAP),Bad Tölz,47761.0,11565.0,Silber,Ski Alpin,Kombination
+OBB,1998.0,Nagano (JAP),Lenggries,47682.0,11576.0,Gold,Ski Alpin,"Slalom, Kombination"
+OBB,1998.0,Nagano (JAP),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Einzel
+OBB,1998.0,Nagano (JAP),Bad Reichenhall,47730.0,12881.0,Bronze,Eisschnelllauf,3000m
+OBB,1998.0,Nagano (JAP),Bad Tölz,47761.0,11565.0,Bronze,Biathlon,"Einzel, Sprint, Staffel"
+OBB,1998.0,Nagano (JAP),Traunstein,47867.0,12638.0,Gold,Biathlon,Staffel
+OBB,1998.0,Nagano (JAP),Rosenheim,47857.0,12118.0,Silber,Freestyle Ski,Buckelpiste
+OBB,1998.0,Nagano (JAP),Berchtesgarden,47630.0,13000.0,Gold,Bob,"4er-Bob, 2er-Bob"
+OBB,2002.0,Salt Lake City (USA),Berchtesgarden,47630.0,13000.0,Gold,Bob,2er-Bob
+OBB,2002,Salt Lake City (USA),Traunstein,47867.0,12638.0,Gold,Ski Alpin Sitzend,"Slalom, Riesenslalom, Abfahrt, Super-G"
+OBB,2002.0,Salt Lake City (USA),Bad Tölz,47761.0,11565.0,Silber,Biathlon,"Sprint, Staffel"
+OBB,2002.0,Salt Lake City (USA),Traunstein,47867.0,12638.0,Bronze,Ski Langlauf,Staffel
+OBB,2002.0,Salt Lake City (USA),Traunstein,47867.0,12638.0,Gold,Ski Langlauf,"4x5km Staffel, Sprint"
+OBB,2002.0,Salt Lake City (USA),Tegernsee,47713.0,11758.0,Silber,Ski Langlauf,"1,5km Sprint"
+OBB,2002.0,Salt Lake City (USA),Berchtesgarden,47630.0,13000.0,Silber,Rodel,Einzel
+OBB,2002.0,Salt Lake City (USA),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Doppelsitzer
+OBB,2002.0,Salt Lake City (USA),Berchtesgarden,47630.0,13000.0,Gold,Rodel,Doppelsitzer
+OBB,2002.0,Salt Lake City (USA),Berchtesgarden,47630.0,13000.0,Silber,Rodel,Einzel
+OBB,2002.0,Salt Lake City (USA),Bad Reichenhall,47730.0,12881.0,Gold,Eisschnelllauf,1500m
+OBB,2002.0,Salt Lake City (USA),Bad Tölz,47761.0,11565.0,Bronze,Ski Alpin,Kombination
+OBB,2004.0,Athen (GR),Starnberg,47999.0,11339.0,Bronze,Hockey,
+OBB,2004.0,Athen (GR),München,48135.0,11581.0,Bronze,Hockey,
+OBB,2004,Athen (GR),Tegernsee,47713.0,11758.0,Gold,Paracycling,"Einzelzeitfahren, Einerverfolgung"
+OBB,2004.0,Athen (GR),München,48135.0,11581.0,Bronze,Fußball,
+OBB,2006,Turin (IT),Traunstein,47867.0,12638.0,Gold,Ski Alpin Sitzend,"Super-G, Riesenslalom, Slalom"
+OBB,2006.0,Turin (IT),Bad Aibling,47864.0,12009.0,Silber,Snowboard,Parallel-Riesenslalom
+OBB,2006.0,Turin (IT),Traunstein,47867.0,12638.0,Silber,Ski Langlauf,4x5km Staffel
+OBB,2006.0,Turin (IT),Bad Tölz,47761.0,11565.0,Bronze,Biathlon,Massenstart
+OBB,2006.0,Turin (IT),Garmisch-Partenkirchen,47491.0,11095.0,Silber,Biathlon,"Einzel, Verfolgung, Staffel"
+OBB,2006.0,Turin (IT),Bad Reichenhall,47730.0,12881.0,Gold,Eisschnelllauf,"Team, 1000m"
+OBB,2006.0,Turin (IT),Traunstein,47867.0,12638.0,Silber,Ski Langlauf,"Staffel, 15km klassisch"
+OBB,2008.0,Peking (CHN),München,48135.0,11581.0,Gold,Hockey,
+OBB,2008.0,Peking (CHN),München,48135.0,11581.0,Gold,Hockey,
+OBB,2008,Peking (CHN),Penzberg,47756.0,11369.0,Gold,Paracycling,"Einzelzeitfahren, Einerverfolgung, 1000m Zeitfahren"
+OBB,2008,Peking (CHN),Tegernsee,47713.0,11758.0,Gold,Paracycling,"Einzelzeitfahren, Einerverfolgung"
+OBB,2010,Vancouver (CAN),Traunstein,47867.0,12638.0,Gold,Ski Alpin Sitzend,"Riesenslalom, Slalom, Super-Kombination, Super-G"
+OBB,2010.0,Vancouver (CAN),Traunstein,47867.0,12638.0,Gold,Ski Langlauf,"Teamsprint, 4x5km Staffel"
+OBB,2010.0,Vancouver (CAN),Bad Reichenhall,47730.0,12881.0,Silber,Skispringen,Team
+OBB,2010.0,Vancouver (CAN),Traunstein,47867.0,12638.0,Silber,Ski Langlauf,Skiathlon
+OBB,2010.0,Vancouver (CAN),Garmisch-Partenkirchen,47491.0,11095.0,Gold,Biathlon,"Verfolgung, Massenstart, Sprint"
+OBB,2010.0,Vancouver (CAN),Garmisch-Partenkirchen,47491.0,11095.0,Bronze,Biathlon,Staffel
+OBB,2010.0,Vancouver (CAN),Bad Reichenhall,47730.0,12881.0,Gold,Eisschnelllauf,Team
+OBB,2010.0,Vancouver (CAN),Berchtesgarden,47630.0,13000.0,Bronze,Rodel,Doppelsitzer
+OBB,2010.0,Vancouver (CAN),Garmisch-Partenkirchen,47491.0,11095.0,Silber,Ski Langlauf,4x5km Staffel
+OBB,2010.0,Vancouver (CAN),Berchtesgarden,47630.0,13000.0,Bronze,Rodel,Doppelsitzer
+OBB,2010.0,Vancouver (CAN),Garmisch-Partenkirchen,47491.0,11095.0,Gold,Ski Alpin,"Super-Kombination, Slalom"
+OBB,2010.0,Vancouver (CAN),Kreuth,47644.0,11743.0,Gold,Ski Alpin,Riesenslalom
+OBB,2010.0,Vancouver (CAN),Berchtesgarden,47630.0,13000.0,Bronze,Skeleton,Einzel
+OBB,2012.0,London (GB),München,48135.0,11581.0,Silber,Turnen,"Barren, Mehrkampf"
+OBB,2012.0,London (GB),München,48135.0,11581.0,Gold,Hockey,
+OBB,2012.0,London (GB),München,48135.0,11581.0,Gold,Hockey,
+OBB,2012,London (GB),Tegernsee,47713.0,11758.0,Gold,Paracycling,Einzelzeitfahren
+OBB,2012,London (GB),München,48135.0,11581.0,Gold,Leichtathletik,"Kugelstoßen, Speerwurf"
+OBB,2014.0,Sotschi (RUS),Berchtesgarden,47630.0,13000.0,Silber,Snowboard,Parallelslalom
+OBB,2014.0,Sotschi (RUS),Berchtesgarden,47630.0,13000.0,Gold,Rodel,"Doppelsitzer, Team"
+OBB,2014.0,Sotschi (RUS),Oberaudorf,47641.0,12149.0,Gold,Skispringen,Team
+OBB,2014.0,Sotschi (RUS),Traunstein,47867.0,12638.0,Gold,Skispringen,Team
+OBB,2014.0,Sotschi (RUS),Kreuth,47644.0,11743.0,Bronze,Ski Alpin,Riesenslalom
+OBB,2014.0,Sotschi (RUS),München,48135.0,11581.0,Gold,Rodel,"Einsitzer, Team"
+OBB,2014.0,Sotschi (RUS),Garmisch-Partenkirchen,47491.0,11095.0,Gold,Ski Alpin,"Super-Kombination, Super-G"
+OBB,2014.0,Sotschi (RUS),Bad Aibling,47864.0,12009.0,Bronze,Snowboard,Parallelslalom
+OBB,2016,Rio de Janeiro (BRA),Tegernsee,47713.0,11758.0,Gold,Paracycling,Einzelzeitfahren
+OBB,2016,Rio de Janeiro (BRA),München ,48135.0,11581.0,Gold,Leichtathletik,Kugelstoßen
+OBB,2016,Rio de Janeiro (BRA),München,48135.0,11581.0,Silber,Rollstuhl-Basketball,Team
+OBB,2016.0,Rio de Janeiro (BRA),Rosenheim,47857.0,12118.0,Silber,Fußball,
+OBB,2016.0,Rio de Janeiro (BRA),Rosenheim,47857.0,12118.0,Silber,Fußball,
+OBB,2016.0,Rio de Janeiro (BRA),Schongau,47815.0,10894.0,Silber,Sportschießen,Sportpistole Einzel
+OBB,2018.0,Pyeongchang (Südkorea),Berchtesgarden,47630.0,13000.0,Gold,Rodel,"Doppelsitzer, Team"
+OBB,2018.0,Pyeongchang (Südkorea),Garmisch-Partenkirchen,47491.0,11095.0,Gold,Biathlon,"Sprint, Verfolgung, Einzel"
+OBB,2018.0,Pyeongchang (Südkorea),Bad Tölz,47761.0,11565.0,Silber,Eishockey,
+OBB,2018.0,Pyeongchang (Südkorea),Bad Tölz,47761.0,11565.0,Silber,Eishockey,
+OBB,2018.0,Pyeongchang (Südkorea),Erding,48311.0,11918.0,Silber,Eishockey,
+OBB,2018,Pyeongchang (SKO),München,48135.0,11581.0,Bronze,Biathlon,"10km, 12,5 km"
+OBB,2018.0,Pyeongchang (Südkorea),Bischofswiesen,47650.0,12964.0,Bronze,Snowboard,Parallel-Riesenslalom
+OBB,2018.0,Pyeongchang (Südkorea),München,48135.0,11581.0,Gold,Rodel,"Einzel, Team"
+OBB,2018.0,Pyeongchang (Südkorea),Traunstein,47867.0,12638.0,Gold,Skispringen,"Normalschanze, Großschanze, Team"
+OBB,2021,Tokio (JAP),Tegernsee,47713.0,11758.0,Bronze,Paracycling,Einzelzeitfahren
+OBB,2021.0,Tokio (JP),München,48135.0,11581.0,Silber,Segeln,(mit Susann Beucke)
+OBB,2021.0,Tokio (JP),Ebersberg,48078.0,11966.0,Silber,Turnen,Barren
+OBB,2021.0,Tokio (JP),München,48135.0,11581.0,Bronze,Judo,Mannschaft Mixed
+OBB,2022.0,Peking (CHN),München,48135.0,11581.0,Gold,Rodeln,"Einzel, Team"
+OBB,2022.0,Peking (CHN),Berchtesgaden,47630.0,13000.0,Silber,Rodeln,Einzel
+OBB,2022.0,Peking (CHN),Berchtesgarden,47630.0,13000.0,Gold,Rodel,"Doppelsitzer, Team"
+OBB,2022.0,Peking (CHN),München,48135.0,11581.0,Silber,Ski Alpin,Team
+OBB,2022.0,Peking (CHN),Bad Aibling,47864.0,12009.0,Bronze,Skispringen,Team
+OBB,2022.0,Peking (CHN),Berchtesgaden,47630.0,13000.0,Silber,Bob,"Zweierbob (Pilot), Viererbob"
+OBB,2022.0,Peking (CHN),Töging am Inn,48259.0,12586.0,Silber,Bob,"Zweierbob (Anschieber), Viererbob"
+OBB,2022.0,Peking (CHN),Bad Aibling,47864.0,12009.0,Bronze,Bob,Zweierbob (Pilot)
+OBB,2022.0,Peking (CHN),München,48135.0,11581.0,Bronze,Biathlon,Staffel
+OBB,2022.0,Peking (CHN),Wasserburg am Inn,48052.0,12224.0,Bronze,Biathlon,Staffel
+OBB,2022.0,Peking (CHN),Mühldorf am Inn,48245.0,12521.0,Silber,Bob,Zweierbob (Anschieberin)
+OBB,2022.0,Peking (CHN),München,48135.0,11581.0,Silber,Ski Alpin,Team
+OBB,2022.0,Peking (CHN),Siegsdorf,47823.0,12640.0,Bronze,Skispringen,Team
+OBB,2022,Peking (CHN),Garmisch-Partenkirchen,47491.0,11095.0,Bronze,Ski Alpin,Slalom
+OFR,1936.0,Berlin (D),Bamberg,49890.0,10882.0,Gold,Gewichtheben,Schwergewicht
+OFR,1964.0,Tokio (JP),Hof,50313.0,11912.0,Bronze,Schwimmen,"400m Lagen, 4x200m Freistil Staffel"
+OFR,1984.0,Los Angeles (USA),Wunsiedel,50039.0,12004.0,Silber,Handball,
+OPF,1936.0,Berlin (D),Cham,49225.0,12655.0,Gold,Turnen,Mannschaft
+OPF,1964.0,Tokio (JP),Wenzenbach bei Regensburg,49070.0,12182.0,Silber,Boxen,Schwergewicht
+OPF,1972.0,München (BRD),Waldmünchen,49378.0,12705.0,Gold,Rudern,4er mit Steuermann
+OPF,1976.0,Montreal (CAN),Regensburg,49013.0,12101.0,Bronze,Rudern,
+OPF,1984.0,Los Angeles (USA),Neumakrt i. d. Oberpfalz,49280.0,11462.0,Gold,Gewichtheben,Mittelgewicht
+OPF,1992,Albertville-Tignes (F),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Abfahrt, Super-G, Riesenslalom"
+OPF,1994,Lillehammer (NOR),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Abfahrt, Slalom, Super-G, Riesenslalom"
+OPF,1996.0,Atlanta (USA),Floß,49726.0,12277.0,Silber,Sportschießen,Luftgewehr
+OPF,1998,Nagano (JAP),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Slalom, Riesenslalom"
+OPF,2002,Salt Lake City (USA),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Abfahrt, Super-G, Riesenslalom, Super-Kombi"
+OPF,2006,Turin (IT),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Abfahrt, Riesenslalom, Super-G, Slalom"
+OPF,2010,Vancouver (CAN),Regensburg,49013.0,12101.0,Bronze,Ski Alpin Sitzend,Super-G
+OPF,2010,Vancouver (CAN),Kulmain,49896.0,11897.0,Gold,Ski Alpin,"Abfahrt, Super-G, Riesenslalom, Super-Kombi, Slalom"
+OPF,2012.0,London (GB),Oberviechtach,49460.0,12421.0,Bronze,Tischtennis,Mannschaft
+OPF,2014,Sotschi (RUS),Regensburg,49013.0,12101.0,Gold,Ski Alpin Sitzend,"Abfahrt, Super-G, Riesenslalom, Slalom, Super-Kombination"
+OPF,2016.0,Rio de Janeiro (BRA),Oberviechtach,49460.0,12421.0,Bronze,Tischtennis,Mannschaft
+OPF,2016.0,Rio de Janeiro (BRA),Amberg,49440.0,11863.0,Gold,Fußball,
+OPF,2016.0,Rio de Janeiro (BRA),Regensburg,49013.0,12101.0,Gold,Fußball,
+OPF,2018,Pyeongchang (SKO),Regensburg,49013.0,12101.0,Gold,Ski Alpin Sitzend,"Abfahrt, Super-G, Super-Kombination"
+SCHW,1928.0,St. Moritz (CH),Füssen,47569.0,10700.0,Bronze,Bob,5er-Bob
+SCHW,1932.0,Lake Placid (USA),Füssen,47569.0,10700.0,Bronze,Bob,4er-Bob 
+SCHW,1932.0,Lake Placid (USA),Füssen,47569.0,10700.0,Bronze,Eishockey,
+SCHW,1936.0,Berlin (D),Weißenhorn,48303.0,10156.0,Bronze,Kanu,"1er Kajak 10000m, Faltboot"
+SCHW,1952.0,Oslo (NOR),Gunzesried/Allgäu,47521.0,10219.0,Silber,Ski Alpin,Slalom
+SCHW,1960.0,Squaw Valley (USA),Oberstaufen,47557.0,10205.0,Gold,Ski Alpin,Abfahrt
+SCHW,1960.0,Squaw Valley (USA),Oberstaufen,47557.0,10205.0,Bronze,Ski Alpin,Slalom
+SCHW,1960.0,Squaw Valley (USA),Hindelang,47515.0,10400.0,Silber,Ski Alpin,Abfahrt
+SCHW,1968.0,Grenoble (F),Günzburg,48460.0,10279.0,Gold,Eisschnelllauf,500m
+SCHW,1968.0,Grenoble (F),Nesselwang,47623.0,10501.0,Gold,Nordische Kombination,Einzel
+SCHW,1972.0,Sapporo (JAP),Günzburg,48460.0,10279.0,Gold,Eisschnelllauf,500m
+SCHW,1972.0,München (BRD),Kempten,47728.0,10315.0,Bronze,Leichtathletik,4x100m Staffel
+SCHW,1972.0,München (BRD),Bellenberg,48250.0,10100.0,Silber,Gewichtheben,Super-Schwergewicht
+SCHW,1976.0,Innsbruck (AT),Füssen,47569.0,10700.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Füssen,47569.0,10700.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Kaufbeuren,47883.0,10625.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Füssen,47569.0,10700.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Füssen,47569.0,10700.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Kaufbeuren,47883.0,10625.0,Bronze,Eishockey,
+SCHW,1976.0,Innsbruck (AT),Kaufbeuren,47883.0,10625.0,Bronze,Eishockey,
+SCHW,1980.0,Lake Placid (USA),Seeg im Allgäu,47654.0,10608.0,Silber,Ski Alpin,Riesenslalom
+SCHW,1984.0,Los Angeles (USA),Augsburg,48358.0,10905.0,Silber,Handball,
+SCHW,1988.0,Seoul (Südkorea),Augsburg,48358.0,10905.0,Bronze,Fußball,
+SCHW,1988.0,Seoul (Südkorea),Weiler im Allgäu,47582.0,9913.0,Bronze,Fußball,
+SCHW,1988.0,Calgary (CAN),Sonthofen,47516.0,10280.0,Silber,Ski Alpin,Slalom
+SCHW,1992.0,Barcelona ( E),Augsburg,48358.0,10905.0,Gold,Kanu,1er-Kajak
+SCHW,1994,Lillehammer (NOR),Buchloe,48036.0,10721.0,Silber,Biathlon,"7,5km B1"
+SCHW,1996.0,Atlanta (USA),Augsburg,48358.0,10905.0,Gold,Kanu,Kajak-Einer Slalom
+SCHW,1998,Nagano (JAP),Buchloe,48036.0,10721.0,Silber,Skilanglauf,"Langlauf 15km, Langlauf Staffel"
+SCHW,1998,Nagano (JAP),Lindau,47579.0,9678.0,Gold,Biathlon,Biathlon
+SCHW,2000,Sydney (AUS),Wiggensbach,47745.0,10231.0,Bronze,Leichtathletik,Staffel 4x100m
+SCHW,2000,Sydney (AUS),Augsburg,48358.0,10905.0,Gold,Tischtennis,"Team, Einzel"
+SCHW,2000.0,Sydney (AUS),Kaufbeuren,47883.0,10625.0,Bronze,Fußball,
+SCHW,2002,Salt Lake City (USA),Lindau,47579.0,9678.0,Gold,Biathlon,"7,5km Blind, Skilanglauf 10km"
+SCHW,2002,Salt Lake City (USA),Buchloe,48036.0,10721.0,Bronze,Skilanglauf,10km
+SCHW,2004,Athen (GR),Augsburg,48358.0,10905.0,Gold,Tischtennis,"Team, Einzel"
+SCHW,2006.0,Turin (IT),Füssen,47569.0,10700.0,Gold,Biathlon,"Einzel, Massenstart, Staffel"
+SCHW,2006,Turin (IT),Lindau,47579.0,9678.0,Gold,Langlauf,5km 
+SCHW,2006,Turin (IT),Buchloe,48036.0,10721.0,Bronze,Biathlon,"Biathlon 12,5 km Blind"
+SCHW,2006,Turin (IT),Kempten,47728.0,10315.0,Gold,Ski Alpin,"Abfahrt, Slalom"
+SCHW,2008.0,Peking (CHN),Augsburg,48358.0,10905.0,Gold,Kanu,K1
+SCHW,2008,Peking (CHN),Augsburg,48358.0,10905.0,Silber,Tischtennis,Einzel
+SCHW,2008,Peking (CHN),Dillingen,48579.0,10494.0,Silber,Basketball,
+SCHW,2010,Vancouver (CAN),Buchloe,48036.0,10721.0,Gold,Biathlon,"Biathlon 12,5 km"
+SCHW,2010,Vancouver (CAN),Kempten,47728.0,10315.0,Bronze,Ski Alpin,Abfahrt
+SCHW,2010.0,Vancouver (CAN),Oberstdorf,47409.0,10279.0,Bronze,Nordische Kombination,Team
+SCHW,2010,Vancouver (CAN),Lindau,47579.0,9678.0,Gold,Biathlon,"3km Pursuit, 12,5 km"
+SCHW,2012.0,London (GB),Augsburg,48358.0,10905.0,Silber,Kanu,C1
+SCHW,2012.0,London (GB),Augsburg,48358.0,10905.0,Bronze,Kanu,K1
+SCHW,2012,London (GB),Kaufbeuren,47883.0,10625.0,Silber,Paracycling,Zeitfahren Mixed
+SCHW,2014.0,Sotschi (RUS),Oberstdorf,47409.0,10279.0,Silber,Nordische Kombination,Team
+SCHW,2016,Rio de Janeiro (BRA),Kaufbeuren,47883.0,10625.0,Gold,Paracycling,"Zeitfahren, Straßenrennen"
+SCHW,2016,Rio de Janeiro (BRA),Obergünzburg,47846.0,10420.0,Silber,Paracycling,Straßenrennen
+SCHW,2016,Rio de Janeiro (BRA),Lindau,47579.0,9678.0,Silber,Tischtennis,Team
+SCHW,2016,Rio de Janeiro (BRA),Augsburg,48358.0,10905.0,Bronze,Judo,Bis 73kg
+SCHW,2018.0,Pyeongchang (Südkorea),Oberstdorf,47409.0,10279.0,Silber,Skispringen,Team
+SCHW,2018.0,Pyeongchang (Südkorea),Immenstadt im Allgäu,47559.0,10220.0,Silber,Eishockey,
+SCHW,2018.0,Pyeongchang (Südkorea),Mindelheim,48046.0,10494.0,Silber,Eishockey,
+SCHW,2018.0,Pyeongchang (Südkorea),Sonthofen,47516.0,10280.0,Silber,Snowboard,Parallel-Riesenslalom
+SCHW,2018.0,Pyeongchang (Südkorea),Oberstdorf,47409.0,10279.0,Gold,Nordische Kombination,"Einzel, Team"
+SCHW,2018.0,Pyeongchang (Südkorea),Oberstdorf,47409.0,10279.0,Silber,Skispringen,Einzel
+SCHW,2018.0,Pyeongchang (Südkorea),Oberstdorf,47409.0,10279.0,Gold,Nordische Kombination,Team
+SCHW,2021,Tokio (JAP),Lindau,47579.0,9678.0,Silber,Tischtennis,Team
+SCHW,2021.0,Tokio (JP),Augsburg,48358.0,10905.0,Bronze,Kanu,C1
+SCHW,2021.0,Tokio (JP),Augsburg,48358.0,10905.0,Bronze,Kanu,K1
+SCHW,2021.0,Tokio (JP),Kempten,47728.0,10315.0,Gold,Rennrad,Mannschaftsverfolgung Bahn
+SCHW,2022.0,Peking (CHN),Mindelheim,48046.0,10494.0,Silber,Ski Alpin,Team
+SCHW,2022.0,Peking (CHN),Oberstdorf,47409.0,10279.0,Silber,Skispringen,Einzel
+SCHW,2022.0,Peking (CHN),Oberstdorf,47409.0,10279.0,Gold,Nordische Kombination,"Einzel (NS), Team"
+SCHW,2022.0,Peking (CHN),Oberstdorf,47409.0,10279.0,Bronze,Skispringen,"Einzel, Team"
+SCHW,2022.0,Peking (CHN),Kempten,47728.0,10315.0,Silber,Langlauf,Staffel
+SCHW,2022.0,Peking (CHN),Oberstdorf,47409.0,10279.0,Silber,Nordische Kombination,Team
+SCHW,2022.0,Peking (CHN),Oberstdorf,47409.0,10279.0,Silber,Ski Alpin,Team
+SCHW,2022,Peking (CHN),Oberstdorf,47409.0,10279.0,Silber,Biathlon,6 km
+UFR,1936.0,Berlin (D),Schweinfurt,50049.0,10231.0,Silber,Rudern,Doppel2er
+UFR,1936.0,Berlin (D),Würzburg,49783.0,9933.0,Gold,Rudern,4er ohne Steuermann
+UFR,1936.0,Berlin (D),Würzburg,49783.0,9933.0,Gold,Rudern,4er ohne Steuermann
+UFR,1936.0,Berlin (D),Würzburg,49783.0,9933.0,Gold,Rudern,4er ohne Steuermann
+UFR,1952.0,Helsinki (FIN),Schweinfurt,50049.0,10231.0,Bronze,Rad,Straße
+UFR,1960.0,Rom (IT),Würzburg,49783.0,9933.0,Bronze,Reiten,Dressur Einzel Mixed
+UFR,1964.0,Tokio (JP),Würzburg,49783.0,9933.0,Gold,Reiten,Dressur Mannschaft Mixed
+UFR,1968.0,Mexiko City (MEX),Würzburg,49783.0,9933.0,Gold,Reiten,"Dressur Mannschaft Mixed, Dressur Einzel Mixed"
+UFR,1972.0,München (BRD),Würzburg,49783.0,9933.0,Silber,Reiten,"Dressur Mannschaft Mixed, Dressur Einzel Mixed"
+UFR,1976.0,Montreal (CAN),Würzburg,49783.0,9933.0,Gold,Fechten,Florett Mannschaft
+UFR,1976.0,Montreal (CAN),Großheubach,49727.0,9221.0,Silber,Leichtathletik,Zehnkampf
+UFR,1976.0,Montreal (CAN),Kitzingen,49734.0,10147.0,Gold,Sportschießen,KK-Gewehr 50m liegend
+UFR,1988.0,Seoul (Südkorea),Aschaffenburg,49977.0,9152.0,Bronze,Fußball,
+UFR,1988.0,Calgary (CAN),Aschaffenburg,49977.0,9152.0,Gold,Nordische Kombination,Team
+UFR,1988.0,Seoul (Südkorea),Würzburg,49783.0,9933.0,Gold,Fechten,"Florett Mannschaft, Florett Einzel"
+UFR,1988.0,Seoul (Südkorea),Würzburg,49783.0,9933.0,Silber,Fechten,"Florett Mannschaft, Florett Einzel"
+UFR,1992.0,Barcelona ( E),Würzburg,49783.0,9933.0,Silber,Fechten,Florett Mannschaft
+UFR,1996.0,Atlanta (USA),Würzburg,49783.0,9933.0,Bronze,Fechten,Florett Mannschaft
+UFR,1996.0,Atlanta (USA),Würzburg,49783.0,9933.0,Silber,Rudern,Deutschland 8er
+UFR,2000.0,Sydney (AUS),Lohr a. M.,49989.0,9572.0,Bronze,Fußball,
+UFR,2000.0,Sydney (AUS),Großostheim,49922.0,9753.0,Gold,Reiten,Mannschaft
+UFR,2000.0,Sydney (AUS),Würzburg,49783.0,9933.0,Bronze,Fechten,Florett Mannschaft
+UFR,2004.0,Athen (GR),Würzburg,49783.0,9933.0,Bronze,Hockey,
+UFR,2004.0,Athen (GR),Großostheim,49922.0,9753.0,Bronze,Reiten,Mannschaft
+UFR,2008.0,Peking (CHN),Lohr a. M.,49989.0,9572.0,Bronze,Fußball,"(zuvor bereits 2xBronze, ohne gespielt zu haben)"
+UFR,2008.0,Peking (CHN),Würzburg,49783.0,9933.0,Bronze,Fußball,(Ersatztorhüterin)
+UFR,2008.0,Peking (CHN),Würzburg,49783.0,9933.0,Bronze,Schwimmen,10km Freiwasser
+UFR,2012.0,London (GB),Würzburg,49783.0,9933.0,Silber,Schwimmen,Freiwasser
+UFR,2016.0,Rio de Janeiro (BRA),Alzenau,50089.0,9587.0,Gold,Fußball,
+UFR,2022.0,Peking (CHN),Ochsenfurt,49664.0,10079.0,Silber,Bob,Viererbob

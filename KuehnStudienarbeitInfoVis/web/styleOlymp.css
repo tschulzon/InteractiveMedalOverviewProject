@@ -1,0 +1,16 @@
+.header img {
+  float: left;
+  width: 420px;
+  height: 280px;
+  margin-left: 250px;
+}
+
+.header h1 {
+  float: left;
+  color: black;
+  text-shadow: -1px -1px 0 #FFF, 1px -1px 0 #FFF, -1px 1px 0 #FFF, 1px 1px 0 #FFF;
+  font-family: verdana;
+  position: relative;
+  top: 80px;
+  right: 440px;
+}
